@@ -7,4 +7,8 @@
 ## Terms
 - Directory = Folder
 - Terminal of Command Line = Interface for text commands
-- 
+- CLI = Command Line Interface
+- cd = Change Directory
+- Code Editory = Word Processor for writing code
+- Repository = Project, or the folder/place where your project is kept
+- GitHub = A website to host your repositories online
