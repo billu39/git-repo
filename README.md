@@ -1,8 +1,4 @@
-Let's talk about life. What is life? what's your perspective about life? I'll be waiting for your answer.
-- Life
-- Health
-- Living
+# Terms
 
-# Heading
-
-## Sub-Heading
+- Directory = Folder
+- Terminal of Command Line = Interface for text commands
