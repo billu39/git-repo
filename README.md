@@ -16,3 +16,4 @@
 ## Git Commands
 - Clone = Bring a repository that is hosted somewhere like Github into a folder on your local machine
 - add = track your files and chagnes in git
+- 
