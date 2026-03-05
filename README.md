@@ -24,5 +24,5 @@
 - git add . = Stage all changes
 - git commit -m "msg" -m "description" = Save snapshot with message
 - git push origin main/master = Upload code to GitHub
-- git remote -v = Check remote repository URL
-- git remote add origin <url> = Connect local repo to GitHub repository 
+- git remote -v = Check where your local repo is connected to (just a viewer)
+- git remote add origin <url> = Connect your local repo to GitHub for the first time 
