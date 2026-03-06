@@ -24,5 +24,6 @@
 - git add . = Stage all changes
 - git commit -m "msg" -m "description" = Save snapshot with message
 - git push origin main/master = Upload code to GitHub
+- git push -u origin master = -u se agli baar just git push se kaam ho jaye ga origin master ki zarurat nhi pary gi
 - git remote -v = Check where your local repo is connected to (just a viewer)
 - git remote add origin <url> = Connect your local repo to GitHub for the first time 
