@@ -29,3 +29,5 @@
 - git remote add origin <url> = Connect your local repo to GitHub for the first time 
 
 ## Git Branching
+- Master Branch
+- Feature Branch
