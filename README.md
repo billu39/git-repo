@@ -1,8 +1,12 @@
 # Version Control System
 
-## Simple Definitions
-- Git: Git is your notebook for keeping track of edits; git is a free and open-source version control system.
-- GitHub: GitHub is a library where you keep that notebook so others can read, contribute, or save/download it; github is a website which hosts our repositories(projects) online.
+## Definitions
+- Git: 
+       Git is a free and open-source version control system.
+       Git is your notebook for keeping track of edits. 
+- GitHub: 
+       Github is a website which hosts our repositories(projects) online.
+       GitHub is a library where you keep that notebook so others can read, contribute, or save/download it. 
 
 ## Terms
 - Directory = Folder
